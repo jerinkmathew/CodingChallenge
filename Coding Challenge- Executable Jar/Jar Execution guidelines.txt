@@ -1,0 +1,5 @@
+Steps for executing the jar file
+Step 1: Place the executable jar and poker-hands.txt file in the same folder
+Step 2: execute the jar using the command
+		$java -jar PokerHandSorter.jar poker-hands.txt
+Step 3: The output would be displayed. 
